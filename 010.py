@@ -2,6 +2,7 @@
 #transforme e mostre em graus Farenheit.
 
 
+
 temperatura_celsius = int(input('Digite a temperatura em celsius: '))
 temperatura_fahrenheit = int(temperatura_celsius * 9/5)+32
 
