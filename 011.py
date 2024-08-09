@@ -2,6 +2,7 @@
 #Calcule e mostre: o produto do dobro do primeiro com metade do segundo.
 #a soma do triplo do primeiro com o terceiro. o terceiro elevado ao cubo.
 
+
 #Entradas
 num1_inteiro = int(input('Digite um número inteiro: '))
 num2_inteiro = int(input('Digite um outro número inteiro: '))
